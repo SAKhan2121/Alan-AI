@@ -17,3 +17,6 @@ NewsEra is a conversational voice controlled React News Application. You can fin
 - Completely voice controlled
 - Simple and responsive UI
 
+## About 
+
+--Alan AI is an 
